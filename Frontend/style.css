@@ -1,3 +1,9 @@
-h1{
+#firsth1{
+    color: aqua;
+}
+.yolo{
+    color:brown ;
+}
+.change-color{
     color: red;
 }
