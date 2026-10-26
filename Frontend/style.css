@@ -1,9 +1,9 @@
-#firsth1{
-    color: aqua;
+.some{
+    background-color: red !important;
 }
-.yolo{
-    color:brown ;
+.c2{
+    background-color: green;
 }
-.change-color{
-    color: red;
+h1{
+    background-color: brown;
 }
