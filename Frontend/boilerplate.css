@@ -3,9 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+html , body{
+    height: 100%;
+    width: 100%;
+}
 div{
     background-color: red;
     width: 300px;
     padding: 40px;
     border: 5px solid black;
+    height: 50%;
 }
